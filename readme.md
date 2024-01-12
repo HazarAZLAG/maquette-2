@@ -9,8 +9,8 @@ A brief description of what this project does and who it's for
 ```echo "Hello world```
 ## Screenshots
 
-![Screenshot](./assets/Presentationprojet/Format mobile.png)
-![Screenshot](./assets/Presentationprojet/Format desktop.png)
+![Screenshot](./assets/Presentationprojet/Format_mobile.png)
+![Screenshot](./assets/Presentationprojet/Format_desktop.png)
 
 ## Deployment
 
